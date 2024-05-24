@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\kompa\\source\\repos\\FigureAreaCalculator\\FigureAreaCalculator\\FigureAreaCalculator.csproj": {}
+    "C:\\Users\\kompa\\source\\repos\\FigureAreaCalculatorTask\\FigureAreaCalculator\\FigureAreaCalculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\kompa\\source\\repos\\FigureAreaCalculator\\FigureAreaCalculator\\FigureAreaCalculator.csproj": {
+    "C:\\Users\\kompa\\source\\repos\\FigureAreaCalculatorTask\\FigureAreaCalculator\\FigureAreaCalculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\kompa\\source\\repos\\FigureAreaCalculator\\FigureAreaCalculator\\FigureAreaCalculator.csproj",
+        "projectUniqueName": "C:\\Users\\kompa\\source\\repos\\FigureAreaCalculatorTask\\FigureAreaCalculator\\FigureAreaCalculator.csproj",
         "projectName": "FigureAreaCalculator",
-        "projectPath": "C:\\Users\\kompa\\source\\repos\\FigureAreaCalculator\\FigureAreaCalculator\\FigureAreaCalculator.csproj",
+        "projectPath": "C:\\Users\\kompa\\source\\repos\\FigureAreaCalculatorTask\\FigureAreaCalculator\\FigureAreaCalculator.csproj",
         "packagesPath": "C:\\Users\\kompa\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\kompa\\source\\repos\\FigureAreaCalculator\\FigureAreaCalculator\\obj\\",
+        "outputPath": "C:\\Users\\kompa\\source\\repos\\FigureAreaCalculatorTask\\FigureAreaCalculator\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

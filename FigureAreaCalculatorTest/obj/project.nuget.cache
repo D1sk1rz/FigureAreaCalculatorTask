@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "jtuL9UcFQxZU6DvhNVrF49ryAL08n4GAV4gMX3g1v13v1pVuz5Vt0+mKMv6QskJwxzbM2a5gASRpTX8TofEgLQ==",
+  "dgSpecHash": "5/Jmp3y6iiCSSk6wYIPgs+XYhTZ/UJ3uqYjW1HpGgvS/5aDdDMEwcxnReOsgHNr1kMGFSVN57swnImppI3nCgQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\kompa\\source\\repos\\FigureAreaCalculator\\FigureAreaCalculatorTest\\FigureAreaCalculatorTest.csproj",
+  "projectFilePath": "C:\\Users\\kompa\\source\\repos\\FigureAreaCalculatorTask\\FigureAreaCalculatorTest\\FigureAreaCalculatorTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\kompa\\.nuget\\packages\\coverlet.collector\\3.2.0\\coverlet.collector.3.2.0.nupkg.sha512",
     "C:\\Users\\kompa\\.nuget\\packages\\microsoft.codecoverage\\17.5.0\\microsoft.codecoverage.17.5.0.nupkg.sha512",

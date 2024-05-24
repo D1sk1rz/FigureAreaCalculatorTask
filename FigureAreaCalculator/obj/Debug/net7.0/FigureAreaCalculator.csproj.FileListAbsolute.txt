@@ -34,3 +34,15 @@ C:\Users\kompa\source\repos\FigureAreaCalculator\FigureAreaCalculator\obj\Debug\
 C:\Users\kompa\source\repos\FigureAreaCalculator\FigureAreaCalculator\obj\Debug\net7.0\refint\FigureAreaCalculator.dll
 C:\Users\kompa\source\repos\FigureAreaCalculator\FigureAreaCalculator\obj\Debug\net7.0\FigureAreaCalculator.pdb
 C:\Users\kompa\source\repos\FigureAreaCalculator\FigureAreaCalculator\obj\Debug\net7.0\ref\FigureAreaCalculator.dll
+C:\Users\kompa\source\repos\FigureAreaCalculatorTask\FigureAreaCalculator\bin\Debug\net7.0\FigureAreaCalculator.deps.json
+C:\Users\kompa\source\repos\FigureAreaCalculatorTask\FigureAreaCalculator\bin\Debug\net7.0\FigureAreaCalculator.dll
+C:\Users\kompa\source\repos\FigureAreaCalculatorTask\FigureAreaCalculator\bin\Debug\net7.0\FigureAreaCalculator.pdb
+C:\Users\kompa\source\repos\FigureAreaCalculatorTask\FigureAreaCalculator\obj\Debug\net7.0\FigureAreaCalculator.csproj.AssemblyReference.cache
+C:\Users\kompa\source\repos\FigureAreaCalculatorTask\FigureAreaCalculator\obj\Debug\net7.0\FigureAreaCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kompa\source\repos\FigureAreaCalculatorTask\FigureAreaCalculator\obj\Debug\net7.0\FigureAreaCalculator.AssemblyInfoInputs.cache
+C:\Users\kompa\source\repos\FigureAreaCalculatorTask\FigureAreaCalculator\obj\Debug\net7.0\FigureAreaCalculator.AssemblyInfo.cs
+C:\Users\kompa\source\repos\FigureAreaCalculatorTask\FigureAreaCalculator\obj\Debug\net7.0\FigureAreaCalculator.csproj.CoreCompileInputs.cache
+C:\Users\kompa\source\repos\FigureAreaCalculatorTask\FigureAreaCalculator\obj\Debug\net7.0\FigureAreaCalculator.dll
+C:\Users\kompa\source\repos\FigureAreaCalculatorTask\FigureAreaCalculator\obj\Debug\net7.0\refint\FigureAreaCalculator.dll
+C:\Users\kompa\source\repos\FigureAreaCalculatorTask\FigureAreaCalculator\obj\Debug\net7.0\FigureAreaCalculator.pdb
+C:\Users\kompa\source\repos\FigureAreaCalculatorTask\FigureAreaCalculator\obj\Debug\net7.0\ref\FigureAreaCalculator.dll
